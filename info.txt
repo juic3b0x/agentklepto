@@ -1,0 +1,26 @@
+## Add-on Information
+* Add-on Name: Confluence Build
+* Version: 1.0.0
+* Kodi Version Compatibility: 20.3 (Nexus)
+* Author: agentklepto
+* Website: [https://juic3b0x.github.io/agentklepto/](https://juic3b0x.github.io/agentklepto/)
+* Description: This build enhances Kodi with the classic Confluence skin, offering a user-friendly interface and additional features.
+
+## Features
+* Classic Confluence Skin
+* Enhanced User Interface
+* Additional Add-ons Included
+
+## Installation
+1. Download the Confluence Build zip file.
+2. Launch Kodi.
+3. Navigate to Add-ons > Add-on Browser > Install from zip file.
+4. Select the downloaded Confluence Build zip file.
+5. Wait for the installation notification.
+6. Enjoy the enhanced Kodi experience with the Confluence Build!
+
+## Support
+For support or inquiries, please visit [https://juic3b0x.github.io/agentklepto/](https://juic3b0x.github.io/agentklepto/) or contact [Your Contact Email].
+
+## Disclaimer
+This build is provided as-is without any warranties. Use at your own risk.
