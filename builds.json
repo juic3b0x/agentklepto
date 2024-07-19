@@ -1,28 +1,28 @@
 {
-	"builds": [
-		{
-			"name": "Confluence Build",
-			"version": "1.0",
-			"url": "https://github.com/juic3b0x/agentklepto/raw/main/_zips/confluence_build.zip",
-			"icon": "https://juic3b0x.github.io/agentklepto/icon.png",
-			"fanart": "https://juic3b0x.github.io/agentklepto/fanart.png",
-			"description": "The first build."
-		},
-		{
-			"name": "default build",
-			"version": "2.0",
-			"url": "https://github.com/juic3b0x/agentklepto/raw/main/_zips/default.zip",
-			"icon": "https://juic3b0x.github.io/agentklepto/icon.png",
-			"fanart": "https://juic3b0x.github.io/agentklepto/fanart.png",
-			"description": "The second build. v2.0"
-		},
-		{
-                        "name": "wutu build",
-                        "version": "3.0",
-                        "url": "https://github.com/juic3b0x/agentklepto/raw/main/_zips/wutu3.zip",
-                        "icon": "https://juic3b0x.github.io/agentklepto/icon.png",
-                        "fanart": "https://juic3b0x.github.io/agentklepto/fanart.png",
-                        "description": "The WUTU addon build. v3.0"
-                }
-	]
+    "builds": [
+        {
+            "name": "Confluence Build",
+            "version": "1.0",
+            "url": "https://github.com/juic3b0x/agentklepto/raw/main/_zips/confluence_build.zip",
+            "icon": "https://juic3b0x.github.io/agentklepto/icon.png",
+            "fanart": "https://juic3b0x.github.io/agentklepto/fanart.png",
+            "description": "The first build."
+        },
+        {
+            "name": "default build",
+            "version": "2.0",
+            "url": "https://github.com/juic3b0x/agentklepto/raw/main/_zips/default.zip",
+            "icon": "https://juic3b0x.github.io/agentklepto/icon.png",
+            "fanart": "https://juic3b0x.github.io/agentklepto/fanart.png",
+            "description": "The second build. v2.0"
+        },
+        {
+            "name": "wutu build",
+            "version": "3.0",
+            "url": "https://github.com/juic3b0x/agentklepto/raw/main/_zips/wutu3.zip",
+            "icon": "https://juic3b0x.github.io/agentklepto/wutu_icon.png",
+            "fanart": "https://juic3b0x.github.io/agentklepto/wutu_fanart.png",
+            "description": "The WUTU addon build. v3.0"
+        }
+    ]
 }
