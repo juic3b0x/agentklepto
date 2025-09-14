@@ -18,11 +18,11 @@
         },
         {
             "name": "wutu build",
-            "version": "3.0",
-            "url": "https://github.com/juic3b0x/agentklepto/raw/main/_zips/wutu3.zip",
+            "version": "4.0",
+            "url": "https://github.com/juic3b0x/agentklepto/raw/main/_zips/wutu_v4.0.zip",
             "icon": "https://juic3b0x.github.io/agentklepto/wutu_icon.png",
             "fanart": "https://juic3b0x.github.io/agentklepto/wutu_fanart.png",
-            "description": "The WUTU addon build. v3.0"
+            "description": "The WUTU addon build. v4.0"
         }
     ]
 }
